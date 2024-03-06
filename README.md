@@ -17,3 +17,5 @@ It switches to the next tab in the browser using the ```SendKeys``` method and t
 It refreshes the active page using the ```SendKeys``` method and the F5 key.
 
 The script runs in an infinite loop ```(while(1 -eq 1))``` to continuously switch and refresh the active page.
+## How to use
+Download the script tabswitcher.ps1 and run it
